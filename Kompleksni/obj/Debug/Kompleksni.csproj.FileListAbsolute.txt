@@ -1,0 +1,31 @@
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe.config
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\bin\Debug\Kompleksni.pdb
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Form1.resources
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Properties.Resources.resources
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.exe
+C:\Users\Admin\source\repos\Kompleksni\Kompleksni\obj\Debug\Kompleksni.pdb
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe.config
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.pdb
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csprojAssemblyReference.cache
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Form1.resources
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Properties.Resources.resources
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.GenerateResource.cache
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.CoreCompileInputs.cache
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.exe
+D:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.pdb
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe.config
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.exe
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\bin\Debug\Kompleksni.pdb
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.AssemblyReference.cache
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.SuggestedBindingRedirects.cache
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Form1.resources
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.Properties.Resources.resources
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.GenerateResource.cache
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.csproj.CoreCompileInputs.cache
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.exe
+E:\OOP ISPIT\Kompleksni\Kompleksni_2\Kompleksni\Kompleksni\Kompleksni\obj\Debug\Kompleksni.pdb
